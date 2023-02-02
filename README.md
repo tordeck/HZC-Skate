@@ -1,3 +1,36 @@
+# HZC-Skateboard
+
+<img width="448" alt="artigo_3" src="https://user-images.githubusercontent.com/120040546/216418191-f462e3a7-d89f-446c-8d22-3b1b03a3631a.png">
+
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tordeck/HZC-Skate/blob/main/LICENSE)
+
+## Sobre o projeto
+
+https://tordeck.github.io/HZC-Skate/
+
+O HZC-Skateboard é um web site voltado para os fans de skateboard. Neste website, você poderá ver vídeos de manobras, artigos dos melhores skatistas brasileiros e muito mais.
+
+Além disso, você poderá também, comprar nossos produtos, fazer assinaturas, criar um perfil com seus favoritos e ainda participar de lives!
+
+Projeto desenvolvido e tutelado por
+<a href="https://www.linkedin.com/in/matheus-alberto-marcus/">Matheus Alberto</a>.
+
+
+## Responsividade
+O site atual, pode ser visualizado em mobile,tablet's e PC's. 
+
+Para a visualização em mobile e tablets o tamanho máximo da pag é de 1339px 
+
+Para visualização em PC e tablets maiores coloque em 1440px +.
+
+
+## Tecnologias utilizadas
+
+## Front end
+- HTML / CSS  / JavaScript
+
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
@@ -101,3 +134,12 @@ Largura máxima do conteúdo principal: `1120px`
 Largura máxima de um cartão desktop: `256px`
 
 Altura mínima de um cartão: `320px`
+
+
+
+
+# Autor
+
+Davidson Soares de Oliveira
+
+https://www.linkedin.com/in/davidson-soares-44952ba3/
